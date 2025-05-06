@@ -1,6 +1,7 @@
 # 파이보 뷰/서비스 레이어 분리 리팩토링
 
 - 대상 코드 : [https://github.com/pahkey/djangobook/tree/3-09](https://github.com/pahkey/djangobook/tree/3-09)
+- 완성 코드 : https://github.com/SCKIMOSU/view_refactoring.git 
 
 ## 1. 전통적인 views
 
